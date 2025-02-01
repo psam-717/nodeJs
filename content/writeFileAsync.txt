@@ -1,0 +1,2 @@
+Here is the result of the two text files: 
+"This is the first text file. Welcome here👋🏾," and "This is the second text file. Let's go" 
